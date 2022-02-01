@@ -1,13 +1,5 @@
 <h1 align="center">Assalamu'alaikum, Hi There! My name Kanas Abdullah</h1>
-<h3 align="center">A wibu who wants to be able to ngoding</h3>
-
-- I started a project about design and etc, the name of project is **rainylabs.**
-
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Java, C**
-
-- Visit my portofolio [Kanassuwa.github.io](Kanassuwa.github.io)
-
-- I write a article on [nekostaffidn.blogspot.com](nekostaffidn.blogspot.com)
+<h5 align="center">I write a article on nekostaff Indonesia</h5>
 
 - Contact me on **kanassuwa@gmail.com**
 
